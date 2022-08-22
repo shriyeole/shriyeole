@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shriyeole
 - 🌱 I’m currently learning java language and DSA.
-- 📫 How to reach me 📧shrijeetyeole2@gmail.com
+- 📧shrijeetyeole2@gmail.com
 - 
 
 <!---
