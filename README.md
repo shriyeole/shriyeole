@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shriyeole
-- 🌱 I’m currently learning java language and DSA.
+- 🌱 I’m pursuing my MCA in SPIT, Mumbai.
 - https://www.linkedin.com/in/shrijeet-yeole-79ba721aa
 - 
 
